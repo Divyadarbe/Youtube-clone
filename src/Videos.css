@@ -1,0 +1,29 @@
+.videos{
+    margin-bottom:40px;
+    width:270px;
+}
+.videos > img{
+    width: 250px;
+    height:140px;
+}
+.videos__info{
+    display: flex;
+    margin-top: 10px;
+    padding-right: 40px;
+    
+}
+.videos__text{
+    margin-left: 10px;
+}
+.videos__text > h4{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.videos__text >p{
+    font-size: 14px;
+    color: gray;
+}
+.videos__avatar{
+    height: 30px !important;
+    width: 30px !important;
+}
